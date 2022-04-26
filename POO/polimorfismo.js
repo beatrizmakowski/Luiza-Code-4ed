@@ -1,5 +1,5 @@
 /**
- *  Exercício: Criar novas funcionalidades para a Conta Pupança.
+ *  Exercício: Criar novas funcionalidades para a Conta Poupança.
  */
 
 class Conta {
