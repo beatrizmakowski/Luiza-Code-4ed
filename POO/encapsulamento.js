@@ -41,7 +41,7 @@ let person2 = new Person('Matheus', 38);
 
 console.log(person1); // { firstName: 'Isabela' } -- não exibe que o atributo age existe nem seu valor.
 console.log(person2.age); // undefined -- atributos privados só podem ser acessados dentro da classe
-person2.printAge(); // 38 -- acessa o atibuto age dentro da classe para imprimi-lo no console
+person2.printAge(); // 38 -- bypass: acessar o atibuto age dentro da classe para imprimi-lo no console
 
 person1.isMinor();
 person2.isMinor();
