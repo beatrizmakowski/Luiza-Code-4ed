@@ -27,10 +27,11 @@ O desempenho da nova função hash foi comparado com a função hash original ``
 
 Os resultados são apresentados a seguir:
 
-//imagem aqui
+![hash_results](https://user-images.githubusercontent.com/86008015/165553790-99b14033-a695-4059-90c0-90438f79bd84.PNG)
+
 
 Conclusão: o número de colisões foi reduzido em cerca de 19%, mantendo valores praticamente idênticos de tempo de execução e ocupação de memória.
 
 >[Código fonte](#)
 
-[Retornar ao índice](#openbook-índice)
+⬆️ [Retornar ao índice](#openbook-índice)
