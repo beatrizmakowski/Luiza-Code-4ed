@@ -1,6 +1,6 @@
 # Exercícios de Programação Orientada a Objetos
 
-Repositório criado para armazenar os códigos relativos aos exercícios sobre Programação Orientada a Objetos propostos na aula do dia 23/04.
+Repositório criado para armazenar os códigos relativos aos exercícios sobre Programação Orientada a Objetos propostos na aula do dia 23/04/2022.
 
 ## :open_book: Índice
 * [Abstração](#abstração)
