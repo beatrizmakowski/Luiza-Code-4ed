@@ -12,12 +12,13 @@
  * @param {number} number - número a ser verificado
  * @returns {bool} 'true' se o número for par ou 'false' se o número for ímpar.
  */
-const isEven = number => (number % 2 === 0) ? true : false;
+
+ const printParouImpar = numero => {
+    resultado = (numero % 2 === 0) ? 'par' : 'ímpar';
+    console.log(`O número ${numero} é ${resultado}.`);
+};
 
 let resultado = '';
 const numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
-numeros.forEach( numero => {
-    resultado = (isEven(numero)) ? 'par' : 'ímpar';
-    console.log(`O número ${numero} é ${resultado}.`);
-});
+numeros.forEach( numero => printParouImpar(numero));
