@@ -18,12 +18,12 @@ Escreva uma função que retorne se o valor informado é par ou ímpar.
 > [Código fonte](https://github.com/beatrizmakowski/Luiza-Code-4ed/blob/main/javascript-intermediario/arrow-functions/exercicio1.js)
 
 ### Algoritmo
-
-[TODO]
+A arrow function ``printParouImpar()`` verifica se o número é par, utilizando o operador ``%`` e operador ternário. Por fim, imprime o resultado no console utilizando template strings.
 
 ### Resultados
+Iterando sobre o array ``numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]``
 
-[TODO]
+![image](https://user-images.githubusercontent.com/86008015/165990500-82bc7355-2b2f-4e46-9a1b-67c48c2220ce.png)
 
 :arrow_up: [Retornar ao índice](#open_book-índice)
 
@@ -39,11 +39,11 @@ Escreva uma função que recebe dois números e retorna a soma entre eles.
 
 ### Algoritmo
 Criou-se a arrow function ``somar()``. Para testá-la, utilizou-se os métodos ``Math.random()`` e ``Math.floor()`` para gerar 10 combinações diferentes de
-números e verificar os resultados.
+números e template strings para verificar os resultados.
 
 ### Resultados
 
-[TODO]
+![image](https://user-images.githubusercontent.com/86008015/165990985-48f67a17-f55d-4031-937f-faf2a20b7abe.png)
 
 :arrow_up: [Retornar ao índice](#open_book-índice)
 
@@ -61,7 +61,7 @@ utilizando operador ternário e retorna uma string de cumprimento.
 
 ### Resultados
 
-[TODO]
+![image](https://user-images.githubusercontent.com/86008015/165991281-b929c433-4b67-4b2e-8a8a-01f561497387.png)
 
 :arrow_up: [Retornar ao índice](#open_book-índice)
 ## Autora
