@@ -1,8 +1,8 @@
 # Exercícios de JavaScript Intermediário
 
 ## :open_book: Índice
-* [Operador ternário](#)
-* [Arrow functions](#)
+* [Operador ternário](https://github.com/beatrizmakowski/Luiza-Code-4ed/tree/main/javascript-intermediario/operador-ternario)
+* [Arrow functions](https://github.com/beatrizmakowski/Luiza-Code-4ed/tree/main/javascript-intermediario/arrow-functions)
 * [Autora](#autora)
 
 
