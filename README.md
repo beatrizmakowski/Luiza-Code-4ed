@@ -3,6 +3,11 @@ Repositório criado para armazenar os códigos desenvolvidos durante o programa 
 
 ## :open_book: Índice
 * [Programação Orientada a Objetos](https://github.com/beatrizmakowski/Luiza-Code-4ed/tree/main/POO)
+* [Estruturas de Dados](https://github.com/beatrizmakowski/Luiza-Code-4ed/tree/main/estrutura-de-dados)
+  * [Hash](https://github.com/beatrizmakowski/Luiza-Code-4ed/tree/main/estrutura-de-dados#hash) 
+* [JavaScript Intermediário](https://github.com/beatrizmakowski/Luiza-Code-4ed/tree/main/javascript-intermediario)
+  * [Operadores ternários](#)
+  * [Arrow Functions](#) 
 
 ## Autora
 
