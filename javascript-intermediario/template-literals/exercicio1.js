@@ -1,6 +1,6 @@
 /*
  * Luiza Code 4ª edição
- * JavaScript Intermediário > Arrow Functions
+ * JavaScript Intermediário > Template literals
  * Data: 29/04/2022
  *
  * Exercício 1
