@@ -16,11 +16,14 @@ let placa = 'AAA-0000'
 let reg = /^[A-Z]{3}\-\d{4}$/g
 placa.match(reg)
 
+// Placa de carro
+const regexPlaca = /^[A-Z]{3}\-\d{4}$/gmi
+
 // CPF
 // ^\d{3}\.\d{3}\.\d{3}\-\d{2}$
 
 // Data
-// ^\d{2}\/\d{2}\/\d{4}$
+const regexData = /^[0-9]{2}\/[1-9]{2}\/[0-9]{4}/
 
 // Começa e termina com uma "/"
 // Possui um conjunto de instruções e flags
@@ -28,5 +31,6 @@ placa.match(reg)
 // m -> multiline
 // i -> case insensitive
 
-placa = 'FJq-5837'
+placa = 'FJQ-5837'
 console.log(placa.match(/^[A-Z]{3}\-\d{4}$/gm));
+

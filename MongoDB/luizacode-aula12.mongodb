@@ -1,0 +1,50 @@
+// MongoDB Playground
+// Use Ctrl+Space inside a snippet or a string literal to trigger completions.
+
+// Select the database to use.
+const database = 'luiza_code';
+
+// The current database to use.
+use(database);
+
+// Create a new collection
+// db.createCollection('products');
+// db.createCollection('clients');
+// db.createCollection('wishlists');
+
+use('luiza_code');
+db.clients.insertMany([
+    {'_id': 1, 'name': 'Luiza', 'email': 'luiza@gmail.com'},
+    {'_id': 2, 'name': 'Maria', 'email': 'maria@gmail.com'},
+    {'_id': 3, 'name': 'João', 'email': 'joao@gmail.com'},
+    {'_id': 4, 'name': 'José', 'email': 'jose@gmail.com'},
+]);
+
+use('luiza_code');
+db.clients.insertOne(
+    {'_id': 5, 'name': 'Gabi', 'email': 'gabi@gmail.com'}
+);
+
+use('luiza_code');
+db.products.insertMany([
+    {'_id': 101, 'name': 'Notebook', 'price': 5780.00, 'quantity': 18, 'updated_at': new Date()},
+    {'_id': 102, 'name': 'Notebook', 'price': 80.00, 'quantity': 56, 'updated_at': new Date()},
+    {'_id': 103, 'name': 'Notebook', 'price': 200.00, 'quantity': 21, 'updated_at': new Date()},
+    {'_id': 104, 'name': 'Notebook', 'price': 50.00, 'quantity': 12, 'updated_at': new Date()},
+    {'_id': 105, 'name': 'Notebook', 'price': 7200.00, 'quantity': 12, 'updated_at': new Date()}
+]);
+
+use('luiza_code');
+db.wishlist.insertMany([
+    {'_id': 456, 'name': 'Favorita1', 'client_id': 2, 'id_products': [105]},
+    {'_id': 457, 'name': 'Melhores', 'client_id': 3, 'id_products': [101, 105]},
+    {'_id': 458, 'name': 'FavoritosLu', 'client_id': 1, 'id_products': [101, 102]},
+    {'_id': 459, 'name': 'FavoritosLu2', 'client_id': 1, 'id_products': [105]},
+    {'_id': 460, 'name': 'Gamer', 'client_id': 4, 'id_products': [101, 102, 103, 104]},
+]);
+
+use('luiza_code');
+db.clients.find();
+
+use('luiza_code');
+db.wishlist.find().pretty;
