@@ -26,7 +26,8 @@ Foi criado um array de Pessoas com valores variados para estes atributos e foi a
 
 ### Resultados
 
-[TODO]
+![image](https://user-images.githubusercontent.com/86008015/166104404-901f1574-14e9-4d32-9426-36c76a121866.png)
+
 
 :arrow_up: [Retornar ao índice](#open_book-índice)
 
@@ -56,7 +57,9 @@ Por fim, foi avaliado novamente se os usuários poderiam executar a tarefa, util
 
 ### Resultados
 
-[TODO]
+![image](https://user-images.githubusercontent.com/86008015/166104444-9fa0bfb4-bc1b-45a6-a084-29a8458ed613.png)
+![image](https://user-images.githubusercontent.com/86008015/166104462-fb011177-1ef9-4cc0-bced-47cc39318030.png)
+
 
 :arrow_up: [Retornar ao índice](#open_book-índice)
 
@@ -77,7 +80,7 @@ Para cada condição climática, foi avaliado utilizando o operador ternario qua
 
 ### Resultados
 
-[TODO]
+![image](https://user-images.githubusercontent.com/86008015/166104585-76ab6172-ee2d-489e-bdd8-82585ca84c17.png)
 
 :arrow_up: [Retornar ao índice](#open_book-índice)
 
