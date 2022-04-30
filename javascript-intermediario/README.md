@@ -3,6 +3,14 @@
 ## :open_book: Índice
 * [Operador ternário](https://github.com/beatrizmakowski/Luiza-Code-4ed/tree/main/javascript-intermediario/operador-ternario)
 * [Arrow functions](https://github.com/beatrizmakowski/Luiza-Code-4ed/tree/main/javascript-intermediario/arrow-functions)
+* [Template literais](https://github.com/beatrizmakowski/Luiza-Code-4ed/tree/main/javascript-intermediario/template-literals)
+* [Destructuring](https://github.com/beatrizmakowski/Luiza-Code-4ed/tree/main/javascript-intermediario/destructuring)
+* [Spread operator](https://github.com/beatrizmakowski/Luiza-Code-4ed/tree/main/javascript-intermediario/spread-operator)
+* [Match/Regex](https://github.com/beatrizmakowski/Luiza-Code-4ed/tree/main/javascript-intermediario/match-regex)
+* [Métodos HTTP](https://github.com/beatrizmakowski/Luiza-Code-4ed/tree/main/javascript-intermediario/metodos-http)
+* [Callbacks](https://github.com/beatrizmakowski/Luiza-Code-4ed/tree/main/javascript-intermediario/callbacks)
+* Promises(#) -- TODO
+* Async Await(#) -- TODO
 * [Autora](#autora)
 
 
