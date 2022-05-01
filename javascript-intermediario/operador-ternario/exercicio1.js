@@ -23,6 +23,7 @@ let equipe = [
     new Pessoa('Pedro', true)
 ];
 
+console.log(equipe);
 equipe.forEach( pessoa => {
     let resultado = (pessoa.possuiHabilitacao ? `${pessoa.nome} pode dirigir.` : `${pessoa.nome} não pode dirigir.`);
     console.log(resultado);
