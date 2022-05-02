@@ -27,7 +27,7 @@ A cópia deste objeto foi obtida através do spread operator:
 
 ### Resultados
 
-[todo]
+![image](https://user-images.githubusercontent.com/86008015/166228769-a82dd013-85e4-46b2-a24e-e113bc7ec8ec.png)
 
 :arrow_up: [Retornar ao índice](#open_book-índice)
 
@@ -49,7 +49,7 @@ Utilizando o mesmo objeto ``livro`` do exercício anterior, os atributos ``titul
 
 ### Resultados
 
-[todo]
+![image](https://user-images.githubusercontent.com/86008015/166228814-08f6fa73-1799-41e5-95b0-477b7134b7fa.png)
 
 :arrow_up: [Retornar ao índice](#open_book-índice)
 
@@ -69,7 +69,7 @@ A solução implementada foi basicamente:
 
 ### Resultados
 
-[todo]
+![image](https://user-images.githubusercontent.com/86008015/166228841-0a5bb7ac-845d-48e5-9ec3-16901167b861.png)
 
 :arrow_up: [Retornar ao índice](#open_book-índice)
 
