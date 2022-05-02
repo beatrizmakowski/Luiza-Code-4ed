@@ -13,7 +13,7 @@ JavaScript Intermediário do LuizaCode 4ª edição, realizada em 30/04/2022.
 
 ### :dart: Objetivo
 Escreva uma arrow function que irá receber os parâmetros CPF, data de nascimento, e CEP, todos em 
-string e sem formatação. Formate-os com regex e exiba no console 
+string e sem formatação. Formate-os com regex e exiba no console.
 
 ### :bulb: Solução implementada
 
@@ -30,8 +30,7 @@ retorna um objeto ``cadastro`` com os valores de CPF, data de nascimento e CEP f
 
 ### Resultados
 
-[todo]
-
+![image](https://user-images.githubusercontent.com/86008015/166153421-091df66f-c76b-49f0-8762-73619a48a540.png)
 
 :arrow_up: [Retornar ao índice](#open_book-índice)
 
@@ -61,7 +60,7 @@ A solução implementada é basicamente:
 
 ### Resultados
 
-[todo]
+![image](https://user-images.githubusercontent.com/86008015/166153450-8c17cb68-f906-4c73-9c12-68298d92a613.png)
 
 :arrow_up: [Retornar ao índice](#open_book-índice)
 
@@ -84,7 +83,7 @@ let { firstName, lastName, age, ...address } = person;
 
 ### Resultados
 
-[todo]
+![image](https://user-images.githubusercontent.com/86008015/166153466-d831f597-7e44-46c8-9659-3a2506cb13f0.png)
 
 :arrow_up: [Retornar ao índice](#open_book-índice)
 
