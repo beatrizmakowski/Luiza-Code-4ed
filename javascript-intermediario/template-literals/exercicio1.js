@@ -9,7 +9,7 @@
 
 const nome = 'Beatriz';
 const today = new Date();
-const idade = today.getYear() - 95;
+const idade = today.getFullYear() - 1995;
 const atividadeFavorita = 'codar'
 
 console.log(`Hello World! Meu nome é ${nome}, tenho ${idade} anos e minha atividade favorita é ${atividadeFavorita}.`);

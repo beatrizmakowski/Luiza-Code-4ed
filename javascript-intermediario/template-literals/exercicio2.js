@@ -9,7 +9,7 @@
  */
 
 const today = new Date();
-const idade = today.getYear() - 95;
+const idade = today.getFullYear() - 1995;
 const doce = 'chocolate';
 
 const expressao = `Eu tenho ${idade} anos e gosto muito de ${doce}.`;
