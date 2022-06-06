@@ -6,8 +6,14 @@ Repositório criado para armazenar os códigos desenvolvidos durante o programa 
 * [Estruturas de Dados](https://github.com/beatrizmakowski/Luiza-Code-4ed/tree/main/estrutura-de-dados)
   * [Hash](https://github.com/beatrizmakowski/Luiza-Code-4ed/tree/main/estrutura-de-dados#hash) 
 * [JavaScript Intermediário](https://github.com/beatrizmakowski/Luiza-Code-4ed/tree/main/javascript-intermediario)
-  * [Operadores ternários](#)
-  * [Arrow Functions](#) 
+  * [Operadores ternários](https://github.com/beatrizmakowski/Luiza-Code-4ed/tree/main/javascript-intermediario/operador-ternario)
+  * [Arrow Functions](https://github.com/beatrizmakowski/Luiza-Code-4ed/tree/main/javascript-intermediario/arrow-functions)
+  * [Template literais](https://github.com/beatrizmakowski/Luiza-Code-4ed/tree/main/javascript-intermediario/template-literals)
+  * [Destructuring](https://github.com/beatrizmakowski/Luiza-Code-4ed/tree/main/javascript-intermediario/destructuring)
+  * [Spread operator](https://github.com/beatrizmakowski/Luiza-Code-4ed/tree/main/javascript-intermediario/spread-operator)
+  * [Match/Regex](https://github.com/beatrizmakowski/Luiza-Code-4ed/tree/main/javascript-intermediario/match-regex)
+  * [Métodos HTTP](https://github.com/beatrizmakowski/Luiza-Code-4ed/tree/main/javascript-intermediario/metodos-http)
+  * [Callbacks](https://github.com/beatrizmakowski/Luiza-Code-4ed/tree/main/javascript-intermediario/callbacks)
 
 ## Autora
 
